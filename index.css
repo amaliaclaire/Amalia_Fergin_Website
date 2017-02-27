@@ -1,0 +1,47 @@
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-image:url("http://www.supertightstuff.com/wp-content/uploads/2009/04/seattle.jpg");
+       width: 800px;
+       margin:auto;
+       background-color: beige;
+       background-image: url('https://ak1.ostkcdn.com/images/products/7785569/7785569/Blush-Hyacinth-Border-Wallpaper-P15179941.jpg');
+
+}
+
+
+
+    header {
+        background-color: pink;
+        opacity: 0.5;
+        padding:10px;
+        font-size:15px;
+        display: center;
+        width: 700px;
+        text-align: center;
+        border-radius: 70px;
+    }
+
+
+
+    nav {
+        line-height:;
+        background-color:;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: #000000;
+    }
+
+    a:link    { color: blue; }
+    a:visited { color: red;   }
+    a:hover   { color: green; }
+    a:active  { color: pink;  }
